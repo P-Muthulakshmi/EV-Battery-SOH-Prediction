@@ -1,0 +1,4 @@
+Timestamp,BatchID,Cycle,Voltage,Current,Temperature,ChargeTime,DischargeTime,InternalResistance,Capacity,AmbientHumidity,C_Rate,PredictedSOH,Condition
+2026-07-08 15:57:16,2,200,3.0,0.5,10.0,0.01,0.01,0.04,1.46,30.0,0.5,86.93,Good
+2026-07-09 09:56:45,1,200,4.2,1.0,15.0,0.01,0.01,0.06,2.52,37.0,2.0,87.78,Good
+2026-07-10 21:47:10,3,1900,3.0,2.0,40.0,80.0,80.0,0.06,1.46,70.0,2.0,35.93,Replace Soon
